@@ -16,8 +16,8 @@ This project uses machine learning models to detect Parkinson's disease based on
 - SHAP Explainability
 
 ## 📈 Results
-- Accuracy: ~X%
-- AUC-ROC: ~X
+- Accuracy: ~
+- AUC-ROC: ~
 
 ## 🚀 Future Work
 - Voice-based deep learning
